@@ -49,11 +49,11 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Example
+  - title:             Blog about plants
     url:               /example/
-  - title:             Documentation
+  - title:             Portfolio 作品集
     url:               /docs/
-  - title:             About
+  - title:             Resume
     url:               /about/
 
 # Add links to the footer.
